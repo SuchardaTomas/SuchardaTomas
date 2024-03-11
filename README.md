@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tomas Sucharda</h1>
-<h3 align="center">A passionate junior frontend developer from Czech Republic</h3>
+<h3 align="center">A passionate junior frontend and backend developer from Czech Republic</h3>
 
 
 - 🔭 I’m currently studying **in High school**
