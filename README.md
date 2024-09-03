@@ -2,7 +2,7 @@
 <h3 align="center">A passionate junior frontend and backend developer from Czech Republic</h3>
 
 
-- 🔭 I’m currently studying **in High school**
+- 🔭 I’m currently studying **at University**
 
 - 🌱 I’m currently learning more about **React, Java**
 
