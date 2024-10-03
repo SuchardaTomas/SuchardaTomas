@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently studying **at University**
 
-- 🌱 I’m currently learning more about **React, Java**
+- 🌱 I’m currently learning more about **Python, Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SuchardaTomas](https://github.com/SuchardaTomas)
 
